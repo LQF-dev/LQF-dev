@@ -2,16 +2,12 @@
 
 # LQF
 
-后端程序员 / AI 应用构建者 / Vibe 工具创作者
+后端程序员 / AI builder / Vibe 工具创作者
 
-用代码和 AI 把想法做成真实产品，也保持长期训练。
+用代码和 AI 把想法做成产品
 
-`西南大学 软件工程本科` -> `UNSW IT 硕士` · `Sydney`
+`西南大学 软工本科` -> `UNSW IT 硕士` · `ChongQing`· `Sydney`
 
-<img src="https://img.shields.io/badge/Spring%20Boot-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Redis%20%7C%20MQ-2ea44f?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG%20%7C%20Agent-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/SwiftUI-3178c6?style=flat-square" />
 <img src="https://img.shields.io/badge/WeChat-LQF--dev-07c160?style=flat-square&logo=wechat&logoColor=white" />
 
 <br />
@@ -27,7 +23,7 @@
 
 ---
 
-## ~/projects
+## projects
 
 <img src="https://img.shields.io/badge/backend-111827?style=flat-square" />
 
