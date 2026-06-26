@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/tools-111827?style=flat-square" />
 
-**[ResumeVault](https://chromewebstore.google.com/detail/jpbfnkmmjmehahdmihahjpehcoanellm?utm_source=item-share-cb)** - 本地优先的简历信息与片段工具，服务求职申请场景。<br />
+**[ResumeVault](https://chromewebstore.google.com/detail/jpbfnkmmjmehahdmihahjpehcoanellm?utm_source=item-share-cb)** - 已上架 chrome插件市场 本地优先的简历信息与片段工具，服务求职申请场景。<br />
 `TypeScript` `Local-first`
 
 **[FilePop](https://github.com/LQF-dev/FilePop)** - 原生 Finder 右键增强，支持新建文件、复制路径、当前目录打开终端。<br />
