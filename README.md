@@ -1,6 +1,6 @@
 <div align="center">
 
-# LQF
+# LQF-dev
 
 后端程序员 / AI builder / Vibe 工具创作者
 
